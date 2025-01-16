@@ -18,22 +18,22 @@ DAE status icon:
 
 ![image](https://github.com/user-attachments/assets/5e290c6a-0f93-4a08-95b7-bd598ddb1613)
 
-# Automation:
+## Automation:
 Use the feature directly from your character sheet to apply to your character's token. The status icon and animated webm are removed automatically at the start of your characters next turn and/or upon the character's use of an action.
 
-# Required Modules:
+## Required Modules:
 Sequencer
 DAE
 MidiQOL
 Times-up
 
-# How to install
-Create a blank macro and a blank item.
-Right click the blank macro and Import the fvtt-Macro-ready-action-vfx.json.
-Right click the blank item and Import the fvtt-Item-ready-action.json.
-Upload both the readyW.png icon and animated Readied_ActionWBCCW_1.webm to a folder of your choice.
-Modify the Macro, DAE and Feature's respective icon images to point to the uploaded icon location.
-Modify the Macro to point to the uploaded webm file location.
-Enjoy!
+## How to install
+- Create a blank macro and a blank item.
+- Right click the blank macro and Import the fvtt-Macro-ready-action-vfx.json.
+- Right click the blank item and Import the fvtt-Item-ready-action.json.
+- Upload both the readyW.png icon and animated Readied_ActionWBCCW_1.webm to a folder of your choice.
+- Modify the Macro, DAE and Feature's respective icon images to point to the uploaded icon location.
+- Modify the Macro to point to the uploaded webm file location.
+- Enjoy!
 
-# Made for Foundry VTT v9 (verified v12).
+### Made for Foundry VTT v9 (verified v12).
