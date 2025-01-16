@@ -27,4 +27,13 @@ DAE
 MidiQOL
 Times-up
 
+# How to install
+Create a blank macro and a blank item.
+Right click the blank macro and Import the fvtt-Macro-ready-action-vfx.json.
+Right click the blank item and Import the fvtt-Item-ready-action.json.
+Upload both the readyW.png icon and animated Readied_ActionWBCCW_1.webm to a folder of your choice.
+Modify the Macro, DAE and Feature's respective icon images to point to the uploaded icon location.
+Modify the Macro to point to the uploaded webm file location.
+Enjoy!
+
 # Made for Foundry VTT v9 (verified v12).
