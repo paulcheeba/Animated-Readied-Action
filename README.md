@@ -2,9 +2,13 @@
 A little automated readied action ring around a token for Foundry VTT.
 
 I made this up for my group to use as a visual indicator they are holding a readied action. The feature uses the following modules: Sequencer (applying and removing the animation), DAE (to appy the status effect, execute the special expiries and call on the macro), MidiQOL (special expiries) and Times-up (duration expiries).
-Included is an Ready-Action item json for the Ready Action feature, and an accompanying Ready-Action-VFX macro that gets called on, and my Ready status/macro/item icon (point the DAE, Macro and Item icon image browsers to the folder you import the icon to).
+Included is an Ready-Action item json for the Ready Action feature, and an accompanying Ready-Action-VFX macro that gets called on, and my Ready status/macro/item icon (point the DAE, Macro and Item icon image browsers to the folder you import the icon to). Recently Updated to add the new Ready Spell feature!
 
-https://github.com/user-attachments/assets/c5d0fba6-9e2e-4186-b164-42f654277626
+
+
+https://github.com/user-attachments/assets/b00793ef-8acf-49b1-b080-167873f4b239
+
+
 
 Macro:
 
@@ -34,6 +38,7 @@ Times-up
 - Upload both the readyW.png icon and animated Readied_ActionWBCCW_1.webm to a folder of your choice.
 - Modify the Macro, DAE and Feature's respective icon images to point to the uploaded icon location.
 - Modify the Macro to point to the uploaded webm file location.
+- *NOTE* Follow the same steps for the Ready Spell feature, noting the names of the files are different respectively.
 - Enjoy!
 
 ### Made for Foundry VTT v9 (verified v12).
